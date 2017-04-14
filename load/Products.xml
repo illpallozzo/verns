@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductList>
+   <ProductItem>
+      <id>"1001"</id>
+      <name>Original</name>
+      <description>A spicy bite, with a sweet touch. This special blend of hot and sweet peppers is perfect for Carolina BBQ</description>
+      <imageURL>images/original.png</imageURL>
+      <purchaseButton>&lt;form target=&quot;paypal&quot; action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;6Q3H2Z6X24GGS&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on0&quot; value=&quot;Sizes&quot;&gt;Sizes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&quot;os0&quot;&gt;
+	&lt;option value=&quot;8 oz.&quot;&gt;8 oz. $7.00 USD&lt;/option&gt;
+	&lt;option value=&quot;16 oz.&quot;&gt;16 oz. $12.00 USD&lt;/option&gt;
+	&lt;option value=&quot;12 - 8 oz.&quot;&gt;12 - 8 oz. $72.00 USD&lt;/option&gt;
+&lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;currency_code&quot; value=&quot;USD&quot;&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;
+&lt;/form&gt;</purchaseButton>
+   </ProductItem>
+   <ProductItem>
+      <id>2001</id>
+      <name>Dill and Garlic</name>
+      <description>Dill punch with a garlic hook. A fresh blend of dill and peppers for a sweet burn. Try this on a Chicago dog!</description>
+      <imageURL>images/Dill.png</imageURL>
+      <purchaseButton>&lt;form target=&quot;paypal&quot; action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;EK22SJKVKH9MJ&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on0&quot; value=&quot;Sizes&quot;&gt;Sizes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&quot;os0&quot;&gt;
+	&lt;option value=&quot;8 oz.&quot;&gt;8 oz. $7.00 USD&lt;/option&gt;
+	&lt;option value=&quot;16 oz.&quot;&gt;16 oz. $12.00 USD&lt;/option&gt;
+	&lt;option value=&quot;12 - 8 oz.&quot;&gt;12 - 8 oz. $72.00 USD&lt;/option&gt;
+&lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;currency_code&quot; value=&quot;USD&quot;&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;
+&lt;/form&gt;</purchaseButton>
+   </ProductItem>
+</ProductList>

@@ -1,0 +1,106 @@
+﻿body {
+}
+
+html {
+        background: #a9936c;
+        color: #fae35f;
+		font-family: arial black;
+        text-align: center;
+    }
+	
+		
+@media screen and (min-width:800px) {
+    #top { 
+        background: #181f18;
+        background-image: url('../images/logo.png');
+		background-size: 32vw;
+        background-repeat: no-repeat;
+	    font-size: 5vw;
+        width: 100%;
+        height:23vw;
+    }
+
+  	#top h1 {
+        padding-left: 45vw;
+        padding-top:  3vw;
+    }
+
+    table {
+       width:50%;
+  	   display: table-cell;
+    }
+
+   	table tr td img {
+        width:100%;
+        margin: auto;
+	}
+	
+   	table tr td {
+        margin-right:auto;
+    }
+
+}
+    
+@media screen and ( max-width: 800px) {
+    #top { 
+        background: #181f18;
+        background-image: url('../images/logo.png');
+        background-size: 45vw;
+        background-repeat: no-repeat;
+        font-size: 5vw;
+        width: 100%;
+        height:32vw;
+    }
+	
+    #top h1 {
+        padding-left: 55vw;
+	    padding-top:  5vw;
+   	}
+
+   	table tr td img {
+        width:90%;
+	    margin: auto;
+   	}
+	
+}
+    
+@media screen and (max-width: 400px) {
+    #top { 
+        background: #181f18;
+        background-image: url('../images/logo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height:65vw;
+    }
+
+  	h1 {
+        visibility: hidden;
+   	}
+	
+    td  {
+        display: table-row;
+    }
+	
+}
+    
+#mainForm {
+
+    height: 200vh;
+    width:100%;
+    overflow: auto;
+}
+	
+#page h2 {
+    font-family: impact;
+}
+    
+#footer {
+    height: 30px;
+    background : black; 
+}
+    
+#description {
+    text-align: center;
+}
+   	  
